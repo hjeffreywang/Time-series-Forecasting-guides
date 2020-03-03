@@ -1,3 +1,9 @@
+https://github.com/Arturus/kaggle-web-traffic
+
+https://www.kaggle.com/c/web-traffic-time-series-forecasting/discussion/43795
+
+
+
 https://github.com/PAIR-code/facets
 https://pair-code.github.io/facets/
 
